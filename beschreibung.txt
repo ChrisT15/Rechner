@@ -1,0 +1,2 @@
+Dieses Programm ist in der Lage, Terme, welche die Rechenarten +,-,*,/ und Klammern (,) enthalten, von Fliesskommazahlen und von komplexen Zahlen zu berechnen, Fliesskommazahlen und komplexe Zahlen in Variablen zu speichern und mit solchen Variablen zu rechnen. 
+Die Funktion main() befindet sich in der Datei CASExecution.java.
